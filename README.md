@@ -1,6 +1,6 @@
-#TravelEase – Comprehensive Travel Management Platform
-Course: CS2005 Database Systems (Spring 2025)
-Project Title: TravelEase – Comprehensive Travel Management Platform
+# TravelEase – Comprehensive Travel Management Platform
+## Course: CS2005 Database Systems (Spring 2025)
+## Project Title: TravelEase – Comprehensive Travel Management Platform
 
 Group Members:
 Name 1 – Roll No: 20i-XXXX
