@@ -1,60 +1,64 @@
-# TravelEase – Comprehensive Travel Management Platform
-
+# 🌍 TravelEase – Comprehensive Travel Management Platform
 Course: CS2005 Database Systems (Spring 2025)
+Instructor: Mr. Majid Hussain
+Submission Date: 13 May 2025
 
-Project Title: TravelEase – Comprehensive Travel Management Platform
-
-Group Members:
-
+👥 Group Members
 Ruhab Ahmad – Roll No: 23i-0559
 
 Abdullah Salman – Roll No: 23i-0597
 
 Hisham Abdullah – Roll No: 23i-0693
 
-
-Instructor: Mr. Majid Hussain
-
-Submission Date: 13 May 2025
-
 📌 Project Overview
+TravelEase is a multi-user travel planning and management platform that bridges travelers with tour operators, hotels, guides, and transport providers. The platform enables users to:
 
-TravelEase is a multi-user travel planning and management platform that connects travelers, tour operators, hotels, guides, and transport providers. It allows for trip customization, booking, resource allocation, 
+Customize trips
 
-payments, and review systems.
+Book services in real-time
 
-This system was developed using:
+Allocate resources efficiently
 
-Frontend: C# Windows Forms (.NET Framework)
+Process secure payments
+
+Submit and view reviews
+
+This comprehensive system ensures seamless travel management through role-based interfaces and rich analytics.
+
+🛠️ Technologies Used
+Frontend: C# (Windows Forms - .NET Framework)
 
 Backend: Microsoft SQL Server
 
-Reporting: Integrated with charting tools for data visualization
+Reporting & Visualization: Integrated charting tools
 
 ✅ Features Summary
+🔐 Role-Based Access Control
 
-Role-based Access Control
+🔒 Secure Authentication System
 
-Secure Authentication
+💳 Integrated Payment Management
 
-Integrated Payment Management
+📅 Real-time Trip Booking
 
-Realtime Trip Booking System
+📊 Admin & Partner Analytics Dashboard
 
-Analytics for Admin/Operators/Hotels
+🧾 Comprehensive Reporting Module
 
-Comprehensive Reporting System
-
-Mock Data for Evaluation and Testing
+🧪 Mock Data for Testing and Evaluation
 
 🚀 How to Run
+Open the Solution:
+Open TravelEaseApp.sln using Visual Studio 2019 or higher.
 
-Open TravelEaseApp.sln in Visual Studio 2019 or above
+Restore Dependencies:
+Restore all NuGet Packages (if prompted).
 
-Restore NuGet Packages (if applicable)
+Set Up the Database:
+Execute the SQL scripts available in the /SQL_Scripts/ directory using Microsoft SQL Server.
 
-Set up the database using scripts in /SQL_Scripts/ in SQL Server
+Configure Database Connection:
+Update the DB connection string in the App.config file according to your local SQL Server settings.
 
-Update DB connection string in App.config
-
-Build and run the application
+Build and Run the Project:
+Build the solution and run the application to start using TravelEase.
