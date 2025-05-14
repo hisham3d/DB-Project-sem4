@@ -1,11 +1,11 @@
 # TravelEase – Comprehensive Travel Management Platform
-## Course: CS2005 Database Systems (Spring 2025)
-## Project Title: TravelEase – Comprehensive Travel Management Platform
+Course: CS2005 Database Systems (Spring 2025)
+Project Title: TravelEase – Comprehensive Travel Management Platform
 
 Group Members:
-Name 1 – Roll No: 20i-XXXX
-Name 2 – Roll No: 20i-XXXX
-Name 3 – Roll No: 20i-XXXX
+Ruhab Ahmad – Roll No: 23i-0559
+Abdullah Salman – Roll No: 23i-0597
+Hisham Abdullah – Roll No: 23i-0693
 Instructor: Mr. Majid Hussain
 Submission Date: 13 May 2025
 
