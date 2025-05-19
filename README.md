@@ -1,6 +1,7 @@
 # 🌍 TravelEase – Comprehensive Travel Management Platform
 
-##📌 Project Overview
+📌 Project Overview
+
 TravelEase is a multi-user travel planning and management platform that bridges travelers with tour operators, hotels, guides, and transport providers. The platform enables users to:
 - Customize trips
 - Book services in real-time
@@ -9,17 +10,20 @@ TravelEase is a multi-user travel planning and management platform that bridges 
 - Submit and view reviews
 - This comprehensive system ensures seamless travel management through role-based interfaces and rich analytics.
 
-##👥 Group Members
+👥 Group Members
+
 - Ruhab Ahmad – Roll No: 23i-0559
 - Abdullah Salman – Roll No: 23i-0597
 - Hisham Abdullah – Roll No: 23i-0693
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
+
 - Frontend: C# (Windows Forms - .NET Framework)
 - Backend: Microsoft SQL Server
 - Reporting & Visualization: Integrated charting tools
 
-##✅ Features Summary
+✅ Features Summary
+
 - 🔐 Role-Based Access Control
 - 🔒 Secure Authentication System
 - 💳 Integrated Payment Management
